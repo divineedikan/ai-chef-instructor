@@ -40,7 +40,7 @@ export default function Main(){
 
       {recipe && <AiRecipe recipe={recipe} />}
  <hr />
-      <h5>© 2026 Elijah Divine. All rights reserved.</h5>
+     <footer> <h5>© 2026 Elijah Divine. All rights reserved.</h5></footer>
     </main>
   )
 }
