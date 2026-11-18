@@ -18,8 +18,8 @@ A React app that suggests a recipe based on the ingredients you have on hand, po
 
 ### 1. Clone the repo
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/divineedikan/ai-chef-instructor
+cd ai-chef-insructor
 ```
 
 ### 2. Install dependencies
